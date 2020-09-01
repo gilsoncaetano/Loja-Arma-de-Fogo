@@ -14,10 +14,10 @@ App para loja de comércio de Arma de fogo
 ## Desenvolvimento 
 
 
-| ![Esquema de banco de dados](/comecial/Esquema do banco de dados.PNG) |
+| ![Esquema de banco de dados](/img/Esquema-banco-dados.png) |
 | :----------------------------------------------: |
-|        Esquema de manco de dados         |
+|        Esquema de banco de dados         |
 
-| ![Fluxo APP](/comecial/Flux do App.PNG) |
+| ![Fluxo APP](/img/Flux-do-App.png) |
 | :------------------------------: |
 |         Flux do App  |
